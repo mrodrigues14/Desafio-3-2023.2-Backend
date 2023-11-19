@@ -8,14 +8,13 @@ div.pageContent {
   text-align: center;
 }
 
-img.img_sprite_front_default {
+img {
   width: 96px;
   height: 96px;
   margin-block: 1em;
 }
 
-button#previous,
-button#next {
+button {
   border: none;
   padding: 10px 20px;
   text-align: center;
